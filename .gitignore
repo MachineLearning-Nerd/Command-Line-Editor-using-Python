@@ -1,0 +1,8 @@
+.venv
+.vscode
+__pycache__
+.git
+*.swp
+*.zip
+*.pdf
+Interview Prac 2 Testing Harness

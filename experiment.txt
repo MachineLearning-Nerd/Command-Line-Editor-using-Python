@@ -1,0 +1,5 @@
+This is good. That is great good.
+This is bad bat. This is great bad.
+This is great bad.
+print(" This is great vim "). Ramanujan
+(" This is great vim ")
